@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SurajHemnani09
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning Computer science
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in DevOps and Open Source
+- 🌱 I’m currently learning DevOp
+- 💞️ I’m looking to collaborate on Everthing
 - 📫 How to reach me ...
 
 <!---
